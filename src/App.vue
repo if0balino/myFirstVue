@@ -25,7 +25,7 @@
       <v-card-action>
         <v-btn width="100%" color="success">Register</v-btn>
         <!-- <v-spacer></v-spacer> -->
-        <v-btn width="100%" color="info" >Login</v-btn>
+        <v-btn width="100%" color="info" >Masuk</v-btn>
         <!-- <tes></tes> -->
       </v-card-action>
     </v-card>
